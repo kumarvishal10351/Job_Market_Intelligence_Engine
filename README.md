@@ -7,6 +7,32 @@ The Job Market Intelligence Engine is a workforce analytics solution built to an
 
 This project simulates a real-world business intelligence system used by HR teams, workforce planners, and career strategists to make data-driven decisions.
 
+
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Executive Overview
+![Overview](https://res.cloudinary.com/dz9sckeou/image/upload/v1772362029/overview_gipc7t.png)
+
+---
+
+### 🔹 Salary Distribution by Title
+![Salary by Title](https://res.cloudinary.com/dz9sckeou/image/upload/v1772362029/salary_bar_fbaerz.png)
+
+---
+
+### 🔹 Jobs by Work Type
+![Jobs by Work Type](https://res.cloudinary.com/dz9sckeou/image/upload/v1772362029/jobs_by_work_type_q1j3oa.png)
+
+---
+
+### 🔹 Company Hiring Distribution
+![Company Hiring](https://res.cloudinary.com/dz9sckeou/image/upload/v1772362029/hiring_count_bar_chart_wtdjlm.png)
+
+---
+
+
 🎯 Business Objectives
 
 This dashboard answers key workforce questions:
